@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly Bar 1`] = `"Content"`;
+
+exports[`renders correctly Content 1`] = `"Content"`;
+
+exports[`renders correctly HeaderPage 1`] = `"Header"`;
+
+exports[`renders correctly ProfilePage 1`] = `"ProfilePage"`;

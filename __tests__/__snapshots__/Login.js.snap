@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the Image component 1`] = `
+<Image
+  style={
+    Object {
+      "height": 240,
+      "width": 320,
+    }
+  }
+/>
+`;
